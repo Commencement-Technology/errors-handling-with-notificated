@@ -11,7 +11,7 @@
 
 ### Description
 
-This app is a part of an article [Errors handling with RN Notificated](https://thewidlarzgroup.com/handle-errors-with-notifications/). Shows few approach to errors handling in modern react native apps. Application show how to use:
+This app is a part of an article [Errors handling with RN Notificated](https://thewidlarzgroup.com/handle-errors-with-notifications/). Presents few approach to errors handling in modern react native apps, and show how to use:
 
 - react-native-notificated
 - react-error-boundary
