@@ -1,14 +1,11 @@
-# Error handling app
-
-<!-- ![react-native-notificated logo]()
-![twg-logo](./src/assets/small-logo.png) -->
-
 <p align="center">
-  <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png" width="100">
+  <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png" width="120">
   <img alt="twg" src="./src/assets/small-logo.png"  width="100">
 </p>
-
-## Made with React Native, React Native Notificated, Axios Interceptors and React Error Boundary
+<p align="center">
+  Example of handling errors in React Native app.<br />
+  Part of an article <i>Errors handling with RN Notificated</i>. <br/>
+</p>
 
 ![](./finally.gif)
 
