@@ -1,7 +1,12 @@
 # Error handling app
 
-![react-native-notificated logo](./src/assets/notificated_logo_small.png)
-![twg logo](./src/assets/small-logo.png)
+<!-- ![react-native-notificated logo]()
+![twg-logo](./src/assets/small-logo.png) -->
+
+<p align="center">
+  <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png">
+  <img alt="twg" src="./src/assets/small-logo.png">
+</p>
 
 ## Made with React Native, React Native Notificated, Axios Interceptors and React Error Boundary
 
