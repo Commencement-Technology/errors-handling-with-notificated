@@ -1,7 +1,7 @@
-<p align="center" style="display:flex,align-items:center">
+<div align="center" style="display:flex,align-items:center">
   <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png" width="120">
   <img alt="twg" src="./src/assets/small-logo.png"  width="90">
-</p>
+</div>
 <p align="center">
   <b>Example of handling errors in React Native app.</b><br />
   Part of an article <i>"Errors handling with RN Notificated"</i>. <br/>
