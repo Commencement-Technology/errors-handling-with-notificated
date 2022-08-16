@@ -11,7 +11,12 @@
 
 ### Description
 
-This app is a part of an article [Errors handling with RN Notificated](https://thewidlarzgroup.com/handle-errors-with-notifications/)
+This app is a part of an article [Errors handling with RN Notificated](https://thewidlarzgroup.com/handle-errors-with-notifications/). Shows few approach to errors handling in modern react native apps. Application show how to use:
+
+- react-native-notificated
+- react-error-boundary
+- axios interceptors
+- try catch block
 
 ![](./finally.gif)
 
