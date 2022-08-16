@@ -1,10 +1,10 @@
 <p align="center">
   <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png" width="120">
-  <img alt="twg" src="./src/assets/small-logo.png"  width="100">
+  <img alt="twg" src="./src/assets/small-logo.png"  width="90">
 </p>
 <p align="center">
-  Example of handling errors in React Native app.<br />
-  Part of an article <i>Errors handling with RN Notificated</i>. <br/>
+  <b>Example of handling errors in React Native app.</b><br />
+  Part of an article <i>"Errors handling with RN Notificated"</i>. <br/>
 </p>
 
 ![](./finally.gif)
