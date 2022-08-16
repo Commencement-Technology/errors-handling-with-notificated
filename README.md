@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png" height="120">
+  <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png" height="90">
   <img alt="twg" src="./src/assets/small-logo.png"  height="90">
 </p>
 <p align="center">
