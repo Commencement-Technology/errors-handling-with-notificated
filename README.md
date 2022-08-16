@@ -4,8 +4,8 @@
 ![twg-logo](./src/assets/small-logo.png) -->
 
 <p align="center">
-  <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png">
-  <img alt="twg" src="./src/assets/small-logo.png">
+  <img alt="react-native-notificated" src="./src/assets/notificated_logo_small.png" width="100">
+  <img alt="twg" src="./src/assets/small-logo.png"  width="100">
 </p>
 
 ## Made with React Native, React Native Notificated, Axios Interceptors and React Error Boundary
